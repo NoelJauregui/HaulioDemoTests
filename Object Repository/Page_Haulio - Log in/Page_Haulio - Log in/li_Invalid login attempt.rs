@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Invalid login attempt</name>
+   <tag></tag>
+   <elementGuidId>2e845f17-1cdd-4d53-8e25-b31d0c48c53f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='UltimateLoginForm']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d178e25d-b928-401a-90af-bd73a276db8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid login attempt.</value>
+      <webElementGuid>b6fa7e41-9857-4b8b-8082-4bcefb492537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UltimateLoginForm&quot;)/div[@class=&quot;alert alert-danger validation-summary-errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>a42d8d42-4621-4303-80c2-71a6053c79ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='UltimateLoginForm']/div/ul/li</value>
+      <webElementGuid>5e40b71f-edfa-4691-880b-1003b2858916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::li[1]</value>
+      <webElementGuid>5740f3c9-3dec-4b7b-a195-b8365c6dccf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid login attempt.']/parent::*</value>
+      <webElementGuid>5e518190-f86e-4f84-81c3-908d8845669f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>843576e4-50a8-45db-8680-df75beb2264d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Invalid login attempt.' or . = 'Invalid login attempt.')]</value>
+      <webElementGuid>cd93ceca-409d-48b4-b1ed-4cfe713d2cd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
